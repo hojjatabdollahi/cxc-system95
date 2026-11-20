@@ -2,9 +2,9 @@
 <component type="generic">
   <id>io.github.hojjatabdollahi.cxc-system95</id>
   <name>System95</name>
-  <summary>Cosmic theme bundle</summary>
+  <summary>The classic Windows 95 look</summary>
   <description>
-    <p>A COSMIC theme bundle carrying the complete look for one mode: the theme, its builder settings, and the background it is shown with.</p>
+    <p>The Windows 95 look for COSMIC: the classic gray colors and square corners, the Chicago95 icons, the W95FA interface font, and a clouds wallpaper.</p>
   </description>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-or-later</project_license>
